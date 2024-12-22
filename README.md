@@ -3,5 +3,8 @@ https://drive.google.com/file/d/1C-Ggk8glo8UlmG9Z6A-QluKHIEtCgdIK/view?usp=shari
 
 # Installation
 Install the required Python packages:
-'''python
-pip install -r requirements.txt'''
+
+```markdown
+```bash
+pip install -r requirements.txt
+
