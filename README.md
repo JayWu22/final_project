@@ -8,8 +8,8 @@ Install the required Python packages:
 pip install -r requirements.txt
 ```
 
-Download the datasets and checkpoint from the google drive link: [text](https://drive.google.com/file/d/1C-Ggk8glo8UlmG9Z6A-QluKHIEtCgdIK/view?usp=sharing)
-Organize the files as follows:
+Download the datasets and checkpoint from the google drive link: [link](https://drive.google.com/file/d/1C-Ggk8glo8UlmG9Z6A-QluKHIEtCgdIK/view?usp=sharing)
+and organize the files as follows:
 ```markdown
 project_root/
 |-- citycscapes_data/
