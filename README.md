@@ -16,7 +16,7 @@ project_root/
 |-- best_segnet_weight.npy
 |-- best_Unet_weight.npy
 |-- HRnet/
-|   |-- best_HENet_weight.npy
+|   |-- best_HRNet_weight.npy
 |-- refineNet/
     |-- best_RefineNet_weight.npy
 ```
@@ -31,7 +31,7 @@ There are four main notebooks in the project:
 
 ## Running the Notebooks
 
-- Each notebook is self-contained and can be executed independently.
+- Each notebook can be executed independently.
 - If you only want to perform inference, you can skip the training code blocks within the notebooks.
 
 ## Example Workflow
